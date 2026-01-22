@@ -8,6 +8,12 @@
     <a href="https://stbhg5.tistory.com/773">Apache 쓰면 안 되나요? 왜 굳이 Nginx를 써야 되는거죠?</a><br/>
     <br/>
 
+<h2>2. Nginx 설치 및 실행<h2/>
+    <a href="https://stbhg5.tistory.com/775">AWS EC2 인스턴스 생성하기</a><br/>
+    <a href="https://stbhg5.tistory.com/776">[공부 Tip] 리눅스 명령어를 잘 모르시는 분들을 위한 공부 방법</a><br/>
+    <a href=""></a><br/>
+    <br/>
+
 <h2><h2/>
     <a href=""></a><br/>
     <a href=""></a><br/>
