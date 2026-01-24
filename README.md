@@ -12,6 +12,7 @@
     <a href="https://stbhg5.tistory.com/775">AWS EC2 인스턴스 생성하기</a><br/>
     <a href="https://stbhg5.tistory.com/776">[공부 Tip] 리눅스 명령어를 잘 모르시는 분들을 위한 공부 방법</a><br/>
     <a href="https://stbhg5.tistory.com/778">Nginx 설치 및 실행하기</a><br/>
+    <a href="https://stbhg5.tistory.com/780">Nginx 로그 확인하는 방법</a><br/>
     <a href=""></a><br/>
     <br/>
 
