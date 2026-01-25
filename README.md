@@ -13,10 +13,12 @@
     <a href="https://stbhg5.tistory.com/776">[공부 Tip] 리눅스 명령어를 잘 모르시는 분들을 위한 공부 방법</a><br/>
     <a href="https://stbhg5.tistory.com/778">Nginx 설치 및 실행하기</a><br/>
     <a href="https://stbhg5.tistory.com/780">Nginx 로그 확인하는 방법</a><br/>
-    <a href=""></a><br/>
     <br/>
 
-<h2><h2/>
+<h2>3. Nginx를 활용해 웹 사이트 배포하기<h2/>
+    <a href="https://stbhg5.tistory.com/781">웹 서버(Web Server)란?</a><br/>
+    <a href="https://stbhg5.tistory.com/782">[보충 자료] vim 사용법</a><br/>
+    <a href=""></a><br/>
     <a href=""></a><br/>
     <a href=""></a><br/>
     <br/>
