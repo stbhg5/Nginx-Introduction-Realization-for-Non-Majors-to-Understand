@@ -19,6 +19,7 @@
     <a href="https://stbhg5.tistory.com/781">웹 서버(Web Server)란?</a><br/>
     <a href="https://stbhg5.tistory.com/782">[보충 자료] vim 사용법</a><br/>
     <a href="https://stbhg5.tistory.com/784">Nginx 기본 문법 해석하기</a><br/>
+    <a href="https://stbhg5.tistory.com/786">Nginx 기본 문법 응용해보기 - 1</a><br/>
     <a href=""></a><br/>
     <a href=""></a><br/>
     <br/>
