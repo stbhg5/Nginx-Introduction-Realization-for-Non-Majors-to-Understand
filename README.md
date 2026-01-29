@@ -21,5 +21,6 @@
     <a href="https://stbhg5.tistory.com/784">Nginx 기본 문법 해석하기</a><br/>
     <a href="https://stbhg5.tistory.com/786">[실습] Nginx 기본 문법 응용해보기 - 1</a><br/>
     <a href="https://stbhg5.tistory.com/788">[실습] Nginx 기본 문법 응용해보기 - 2</a><br/>
+    <a href="https://stbhg5.tistory.com/790">[보충 강의] Nginx 디버깅 방법</a><br/>
     <a href=""></a><br/>
     <br/>
