@@ -23,5 +23,6 @@
     <a href="https://stbhg5.tistory.com/788">[실습] Nginx 기본 문법 응용해보기 - 2</a><br/>
     <a href="https://stbhg5.tistory.com/790">[보충 강의] Nginx 디버깅 방법</a><br/>
     <a href="https://stbhg5.tistory.com/792">[실습] 웹 프론트엔드 프로젝트(HTML, CSS, JS) 배포하기</a><br/>
+    <a href="https://stbhg5.tistory.com/794">[실습] 웹 프론트엔드 프로젝트(React + Vite) 배포하기</a><br/>
     <a href=""></a><br/>
     <br/>
