@@ -30,6 +30,6 @@
 <h2>4. 한 서버에서 다른 도메인을 가진 여러 웹 사이트 배포하기 (멀티 도메인)<h2/>
     <a href="https://stbhg5.tistory.com/799">한 서버에서 다른 도메인을 가진 여러 웹 사이트를 배포하려면?!</a><br/>
     <a href="https://stbhg5.tistory.com/802">[실습] Route 53에서 구매한 도메인 EC2에 연결하기</a><br/>
-    <a href=""></a><br/>
+    <a href="https://stbhg5.tistory.com/806">[실습] 하나의 EC2에서 여러 웹 사이트 배포하기</a><br/>
     <a href=""></a><br/>
     <br/>
