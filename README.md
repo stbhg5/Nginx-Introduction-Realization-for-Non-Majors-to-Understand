@@ -36,5 +36,6 @@
 <h2>5. Nginx를 활용한 HTTPS 적용시키기<h2/>
     <a href="https://stbhg5.tistory.com/810">HTTPS를 왜 적용시켜야 할까?</a><br/>
     <a href="https://stbhg5.tistory.com/813">[실습] Nginx, Certbot을 활용해 HTTPS 적용시키기</a><br/>
+    <a href="https://stbhg5.tistory.com/815">Nginx, Certbot이 작성한 HTTPS 관련 코드 해석하기</a><br/>
     <a href=""></a><br/>
     <br/>
