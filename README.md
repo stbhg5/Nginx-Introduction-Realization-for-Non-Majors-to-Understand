@@ -40,8 +40,8 @@
     <a href="https://stbhg5.tistory.com/818">[보충 강의] 설정 파일 분리해서 관리하기 (include)</a><br/>
     <br/>
 
-<h2><h2/>
-    <a href=""></a><br/>
+<h2>6. 리버스 프록시(Reverse Proxy)를 활용해 백엔드 서버 배포하기<h2/>
+    <a href="https://stbhg5.tistory.com/821">리버스 프록시(Reverse Proxy)란?</a><br/>
     <a href=""></a><br/>
     <a href=""></a><br/>
     <br/>
