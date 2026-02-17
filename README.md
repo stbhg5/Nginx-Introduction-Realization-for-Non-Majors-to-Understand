@@ -43,5 +43,6 @@
 <h2>6. 리버스 프록시(Reverse Proxy)를 활용해 백엔드 서버 배포하기<h2/>
     <a href="https://stbhg5.tistory.com/821">리버스 프록시(Reverse Proxy)란?</a><br/>
     <a href="https://stbhg5.tistory.com/824">[실습] 리버스 프록시를 활용해 Spring Boot 서버 배포하기</a><br/>
+    <a href="https://stbhg5.tistory.com/832">[실습] Spring Boot 서버에 도메인 적용하기</a><br/>
     <a href=""></a><br/>
     <br/>
