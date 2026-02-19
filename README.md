@@ -45,5 +45,10 @@
     <a href="https://stbhg5.tistory.com/824">[실습] 리버스 프록시를 활용해 Spring Boot 서버 배포하기</a><br/>
     <a href="https://stbhg5.tistory.com/832">[실습] Spring Boot 서버에 도메인 적용하기</a><br/>
     <a href="https://stbhg5.tistory.com/834">[실습] Spring Boot 서버에 HTTPS 적용하기</a><br/>
+    <a href="https://stbhg5.tistory.com/836">[실습] IP당 요청 수 제한하기</a><br/>
+    <br/>
+
+<h2><h2/>
+    <a href=""></a><br/>
     <a href=""></a><br/>
     <br/>
