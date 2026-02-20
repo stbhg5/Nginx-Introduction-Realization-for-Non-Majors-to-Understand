@@ -48,7 +48,7 @@
     <a href="https://stbhg5.tistory.com/836">[실습] IP당 요청 수 제한하기</a><br/>
     <br/>
 
-<h2><h2/>
-    <a href=""></a><br/>
+<h2>7. Nginx를 로드 밸런서(Load Balancer)로 사용하기<h2/>
+    <a href="https://stbhg5.tistory.com/838">로드 밸런서(Load Balancer)란?</a><br/>
     <a href=""></a><br/>
     <br/>
