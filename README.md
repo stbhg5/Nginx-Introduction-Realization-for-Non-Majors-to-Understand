@@ -51,5 +51,9 @@
 <h2>7. Nginx를 로드 밸런서(Load Balancer)로 사용하기<h2/>
     <a href="https://stbhg5.tistory.com/838">로드 밸런서(Load Balancer)란?</a><br/>
     <a href="https://stbhg5.tistory.com/840">[실습] 하나의 EC2에서 백엔드 서버 2개를 로드 밸런싱 시키기</a><br/>
-    <a href=""></a><br/>
+    <a href="https://stbhg5.tistory.com/841">비용 나가지 않게 사용한 AWS 서비스들 정리하기</a><br/>
+    <br/>
+
+<h2>8. 마무리<h2/>
+    <a href="https://stbhg5.tistory.com/842">Nginx를 더 깊이 있게 공부하고 싶다면?</a><br/>
     <br/>
